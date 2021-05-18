@@ -16,3 +16,5 @@ Running in Windows CMD!
 
 ![win_env](https://user-images.githubusercontent.com/735103/118589056-e84d5f80-b79f-11eb-9743-d5e0aa6aaaec.png)
 
+For Powerfocus 6000 the tool needs to be connected to a virtual station otherwise the data is not visible!
+
