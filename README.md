@@ -8,4 +8,11 @@ Python openprotocol.py host port - "Python openprotocol.py 192.168.1.250 4545"
 
 Or you can make an exe on a windows PC with auto-py-to-exe.
 
+Running on Mac terminal!
+
 <img width="661" alt="Screenshot 2021-05-16 at 18 53 58" src="https://user-images.githubusercontent.com/735103/118405446-3ff0ab80-b678-11eb-809a-0cc0f66b046b.png">
+
+Running in Windows CMD!
+
+![win_env](https://user-images.githubusercontent.com/735103/118589056-e84d5f80-b79f-11eb-9743-d5e0aa6aaaec.png)
+
